@@ -1,0 +1,15 @@
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\bin\Debug\CodingTest_Consol.exe.config
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\bin\Debug\CodingTest_Consol.exe
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\bin\Debug\CodingTest_Consol.pdb
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\obj\Debug\CodingTest_Console.csproj.SuggestedBindingRedirects.cache
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\obj\Debug\CodingTest_Console.csproj.CoreCompileInputs.cache
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\obj\Debug\CodingTest_Consol.exe
+D:\Project\.Net\0. 코딩테스트\CodingTest_Consol\CodingTest_Consol\obj\Debug\CodingTest_Consol.pdb
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\bin\Debug\CodingTest_Console.exe.config
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\bin\Debug\CodingTest_Console.exe
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\bin\Debug\CodingTest_Console.pdb
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\obj\Debug\CodingTest_Console.csproj.SuggestedBindingRedirects.cache
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\obj\Debug\CodingTest_Console.csproj.CoreCompileInputs.cache
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\obj\Debug\CodingTest_Console.exe
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\obj\Debug\CodingTest_Console.pdb
+D:\Project\.Net\0. 코딩테스트\CodingTest_Console\CodingTest_Consol\obj\Debug\CodingTest_Console.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPASample", "RPASample\RPASample.csproj", "{72843951-63A4-457F-986D-B9E75DCA139B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72843951-63A4-457F-986D-B9E75DCA139B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72843951-63A4-457F-986D-B9E75DCA139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72843951-63A4-457F-986D-B9E75DCA139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72843951-63A4-457F-986D-B9E75DCA139B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B19120-216C-47B2-8F5C-237CF2BC120C}
+	EndGlobalSection
+EndGlobal
