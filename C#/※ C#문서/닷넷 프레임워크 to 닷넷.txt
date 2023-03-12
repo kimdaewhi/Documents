@@ -1,7 +1,0 @@
-* 닷넷 프레임워크를 닷넷으로 변환하는 법.
-	1. .NET Upgrade Assistant 설치
-		https://dotnet.microsoft.com/ko-kr/platform/upgrade-assistant/tutorial/install-sdk 해당 홈페이지 참고
-		
-	2. upgrade할 솔루션 또는 프로젝트 폴더 경로 >> command 실행
-	
-	3. upgrade-assistant upgrade [솔루션/프로젝트명] 명령어 입력

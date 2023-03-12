@@ -1,7 +1,0 @@
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.csproj.AssemblyReference.cache
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.GeneratedMSBuildEditorConfig.editorconfig
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.AssemblyInfoInputs.cache
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.AssemblyInfo.cs
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.csproj.CoreCompileInputs.cache
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.dll
-D:\Project\.Net\5. XBRLAnalysis\XBRLAnalysis\DLLs\Debug\net6.0\OpenDartXBRL.pdb
