@@ -33,12 +33,34 @@
 	- python manage.py runserver //반드시 manage.py가 있는 폴더에서 실행!!	(종료는 Ctrl + C)
 	  ** 뭔가 빨간줄로 migrate이 안되었다고 나올때 다음 명령어 입력 [python manage.py migrate]
 	  
-	  
 2. 웹페이지 만들기
 	- python manage.py startapp [앱이름] (mansge.py가 있는 파일 경로에서 실행)
 	
-	
 3. 프로젝트 폴더 >> urls.py에 url 연결
 
-
 4. [앱이름] 폴더 >> views.py에서 함수 작성하여 페이지 입력
+
+5. Model/Admin/Template Tag (MVT 패턴에 대해서 찾아보자)
+  - models.py에 모델 추가
+  - settings.py에 StockConfig 추가
+    * INSTALLED_APPS에 추가되지 않으면 장고가 인식하지 못함.
+  - 모델 업데이트 진행
+    * 터미널에서 python manage.py makemigrations 
+	* 터미널에서 python manage.py migrate 진행하여 모델 정보 업데이트 시켜줌.
+	※ Django Admin
+	  1. 관리자 역할을 하는 슈퍼 유저
+	  2. 슈퍼 유저를 사용하면 관리자 계정으로 직접 데이터 Insert, Delete 등 가능
+	  python manage.py createsuperuser
+	    ID : admin / mydjango123!! (kimdaewhi@naver.com)
+		- url/admin 으로 접속해보면 관리자 계정으로 접속할 수 있는 화면이 나옴
+		
+  - admin.py에서 추가한 모델 연결
+    * admin.site.register(추가할 모델 및 기능(문자열 배열))
+	
+  - templates 폴더 추가 및 웹페이지 작업
+    * setting.py 에서 템플릿 폴더 정보 연결(연결하지 않으면 인식하지 못함)
+	
+  - templates 폴더에 index.html 추가
+    * {% %}, {{ }} 와 같은 표현은 장고의 대표적인 템플릿 메소드(태그)이다.
+      {% %} 사이에 반복문, 조건문 등을 삽입하여 원하는 정보를 가져올 수도 있고, {{ }} 사이에 context로 정의한 내용을 가져와 사용할 수 있다.
+	
